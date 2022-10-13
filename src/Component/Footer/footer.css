@@ -1,0 +1,54 @@
+.footer_general h2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 65px;
+    line-height: 76px;
+    margin-top: 4%;
+    color: #FFFFFF;
+}
+
+.footer_general {
+    background: url('../../images/dark7.png') center/cover no-repeat;
+}
+
+
+.flex_box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer_box {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3%;
+}
+
+.media h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.media p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 2.5;
+    color: #FFFFFF;
+    opacity: 0.5;
+    cursor: pointer;
+    transition: 0.8s;
+
+}
+
+.media p:hover {
+    color: #FFFFFF;
+    opacity: 2;
+    text-decoration: underline;
+
+}

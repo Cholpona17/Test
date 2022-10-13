@@ -1,0 +1,68 @@
+.awards_h2 h2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    color: #FFFFFF;
+}
+
+.awards_h2 {
+    width: 40%;
+    position: relative;
+}
+
+.dark_two {
+    position: absolute;
+    top: 98%;
+}
+
+.dark_three {
+    position: absolute;
+    top: 80%;
+    left: 69%;
+}
+
+.awards_h2 p {
+    margin-top: 5%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.awards_img {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+}
+
+.box_all img {
+    margin-left: 20%;
+}
+
+#mag img {
+    margin-left: 42%;
+}
+
+.box_all h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    line-height: 2;
+
+}
+
+.box_all p {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    color: rgba(255, 255, 255, 0.5);
+    opacity: 0.6;
+    text-align: center;
+}

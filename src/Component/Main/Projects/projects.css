@@ -1,0 +1,85 @@
+.projects_generall h2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 94px;
+    color: #FFFFFF;
+    margin-top: 8%;
+
+}
+
+.projects_generall {
+    position: relative;
+}
+
+.dark_six {
+    position: absolute;
+    top: 49%;
+}
+
+.dark_five {
+    position: absolute;
+    top: 15%;
+    left: 84%;
+}
+
+.project_position {
+    position: relative;
+}
+
+.projects_img p {
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    top: 86%;
+    left: 30px;
+
+}
+
+.projects_img h2 {
+    position: absolute;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    color: #FFFFFF;
+    top: 67%;
+    left: 30px;
+
+}
+
+.projects_img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 4%;
+    position: relative;
+}
+
+.projects_img img {
+    margin: 10px 10px;
+}
+
+.btn {
+    cursor: pointer;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+    padding: 10px 40px;
+    background: #CC0093;
+    border-radius: 45px;
+    margin-left: 72%;
+    margin-top: 4%;
+}
+
+.btn:hover {
+    text-decoration: underline;
+}
